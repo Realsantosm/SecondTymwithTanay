@@ -30,11 +30,7 @@ body {
   padding: 0 200px;
 }
 
-/* Logo resize */
-.logo{
-  height: 80px;
-  //width: 400px;
-}
+
 /* Navbar */
 header {
   padding-top: 35px;
