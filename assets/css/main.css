@@ -29,6 +29,12 @@ body {
   width: 100%;
   padding: 0 200px;
 }
+
+/* Logo resize */
+.class{
+  height: 400px;
+  width: 400px;
+}
 /* Navbar */
 header {
   padding-top: 35px;
