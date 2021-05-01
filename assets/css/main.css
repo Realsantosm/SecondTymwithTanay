@@ -31,9 +31,9 @@ body {
 }
 
 /* Logo resize */
-.class{
-  height: 400px;
-  width: 400px;
+.logo{
+  height: 80px;
+  //width: 400px;
 }
 /* Navbar */
 header {
